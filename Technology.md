@@ -6,3 +6,6 @@ It helps the user to feel the vibrations from the wearable, if he is speeding up
 
 The haptic feedback helps the rider in realtime to reduce the chances of accidents and leads to a safe driving behaviour. 
 
+#Our Whiteboard
+
+![Alt text](https://cloud.githubusercontent.com/assets/13925575/9427280/f43669e0-4991-11e5-9780-d450fe08078a.jpg "Optional title")
